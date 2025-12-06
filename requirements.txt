@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+sqlalchemy
+psycopg2-binary
+google-generativeai>=0.3.0
+passlib[bcrypt]
+python-jose[cryptography]
+httpx
+pydantic-settings
+python-dotenv
+pypdf
+stripe
